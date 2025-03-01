@@ -24,7 +24,6 @@ const sunLight = new THREE.DirectionalLight(0xffffff, 1);
 sunLight.position.set(0, 0, 0);
 scene.add(sunLight);
 
-
 // PLANETS
 const planets = [
   {
